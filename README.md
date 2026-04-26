@@ -1,17 +1,12 @@
-# This repository serves as technical documentation and a case study for the Outfit Customizer project (1st Place Hackathon Winner). While the original source environment is no longer active, the architectural principles and design logic are detailed below.
 # 👗 Outfit Customizer | 1st Place Hackathon Winner
 
-An intuitive, modular Python application designed to streamline wardrobe management and outfit visualization. Built over a 7-day development cycle.
+### 📺 Watch the Demo
+(https://drive.google.com/file/d/1EXmlPoMBV3whtTnDj0fc3KJ9gpmdS0-q/view?usp=sharing)
 
-## 📺 Project Demo
-(https://drive.google.com/drive/folders/1V_O3Hc7-FRDSm3h2qwxuKwFvoavKkhvP?usp=drive_link)
-## 🚀 Key Features
-* **Modular Architecture:** Decoupled UI and logic for high reliability and scalability.
-* **Instant Search:** Optimized data structures for O(1) retrieval speeds.
-* **Visual Prototyping:** Custom vector assets for an emotionally resonant user experience.
+### 🖼️ App Screenshots
+| Main Menu | The Closet | Selection Screen |
+| :--- | :--- | :--- |
+| ![Main]((https://drive.google.com/file/d/1MDermWoktZebS3c2wc0e_pV_9mvqJjKK/view?usp=drive_link)) | ![Closet](YOUR_LINK_TO_IMAGE) | ![Selection](YOUR_LINK_TO_IMAGE) |
 
-## 🛠️ Tech Stack
-* **Language:** Python
-* **Design:** Custom Vector Graphics
-
-
+### 💡 What is this?
+I built this in 7 days for a hackathon. It helps you organize your clothes digitally. Even though the code is archived, I saved these images to show how the "Modular Design" worked.
