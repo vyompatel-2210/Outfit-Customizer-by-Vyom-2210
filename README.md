@@ -1,5 +1,6 @@
 # 👗 Outfit Customizer | 1st Place Hackathon Winner
-
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![GUI](https://img.shields.io/badge/User_Interface-DEA584?style=for-the-badge)
 ### 📺 Watch the Demo
 [Click here to see the video of the app running](https://drive.google.com/file/d/1EXmlPoMBV3whtTnDj0fc3KJ9gpmdS0-q/view?usp=sharing)
 
