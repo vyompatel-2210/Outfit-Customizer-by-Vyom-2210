@@ -7,10 +7,10 @@
 ### 🖼️ App Screenshots
 | Screens | 
 | :--- |
-| Main<img width="350" height="250" alt="mainscreen" src="https://github.com/user-attachments/assets/bbdca3b6-ff46-45f3-a918-bef0d023194f" />
- | Closet<img width="350" height="250" alt="Closet" src="https://github.com/user-attachments/assets/9aad3263-f183-4466-871c-b19c59f505d3" />
- |Selection<img width="350" height="250" alt="Selection" src="https://github.com/user-attachments/assets/a9352231-b369-4e3f-bbc5-d928f39b5fd3" />
- |Wardrobe<img width="350" height="250" alt="Wardrobe" src="https://github.com/user-attachments/assets/205097e2-4d1f-4421-92f1-e8152b1a486d" />
+| Main<img width="380" height="250" alt="mainscreen" src="https://github.com/user-attachments/assets/bbdca3b6-ff46-45f3-a918-bef0d023194f" />
+ | Closet<img width="380" height="250" alt="Closet" src="https://github.com/user-attachments/assets/9aad3263-f183-4466-871c-b19c59f505d3" />
+ |Selection<img width="380" height="250" alt="Selection" src="https://github.com/user-attachments/assets/a9352231-b369-4e3f-bbc5-d928f39b5fd3" />
+ |Wardrobe<img width="380" height="250" alt="Wardrobe" src="https://github.com/user-attachments/assets/205097e2-4d1f-4421-92f1-e8152b1a486d" />
 |
 ### 💡 What is this?
 Me and My team built this in 7 days for a hackathon. It helps you organize your clothes digitally. Even though the code is archived, I saved these images to show how the "Modular Design" worked.
