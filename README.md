@@ -3,6 +3,8 @@
 
 An intuitive, modular Python application designed to streamline wardrobe management and outfit visualization. Built over a 7-day development cycle.
 
+## 📺 Project Demo
+(https://drive.google.com/drive/folders/1V_O3Hc7-FRDSm3h2qwxuKwFvoavKkhvP?usp=drive_link)
 ## 🚀 Key Features
 * **Modular Architecture:** Decoupled UI and logic for high reliability and scalability.
 * **Instant Search:** Optimized data structures for O(1) retrieval speeds.
