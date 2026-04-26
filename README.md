@@ -1,3 +1,4 @@
+# This repository serves as technical documentation and a case study for the Outfit Customizer project (1st Place Hackathon Winner). While the original source environment is no longer active, the architectural principles and design logic are detailed below.
 # 👗 Outfit Customizer | 1st Place Hackathon Winner
 
 An intuitive, modular Python application designed to streamline wardrobe management and outfit visualization. Built over a 7-day development cycle.
@@ -9,9 +10,6 @@ An intuitive, modular Python application designed to streamline wardrobe managem
 
 ## 🛠️ Tech Stack
 * **Language:** Python
-* **GUI Framework:** [Insert your framework here, e.g., Tkinter/PyQt]
 * **Design:** Custom Vector Graphics
 
-## 📖 How to Run
-1. Clone the repo: `git clone [your link]`
-2. Run `main.py`
+
