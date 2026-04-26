@@ -4,8 +4,8 @@
 [Click here to see the video of the app running](https://drive.google.com/file/d/1EXmlPoMBV3whtTnDj0fc3KJ9gpmdS0-q/view?usp=sharing)
 
 ### 🖼️ App Screenshots
-| Main Menu | The Closet | Selection Screen | Wardrobe Screen |
-| :--- | :--- | :--- | :--- |
+| Screens | 
+| :--- |
 | Main<img width="1600" height="928" alt="mainscreen" src="https://github.com/user-attachments/assets/bbdca3b6-ff46-45f3-a918-bef0d023194f" />
  | Closet<img width="1600" height="930" alt="Closet" src="https://github.com/user-attachments/assets/9aad3263-f183-4466-871c-b19c59f505d3" />
  |Selection<img width="1600" height="920" alt="Selection" src="https://github.com/user-attachments/assets/a9352231-b369-4e3f-bbc5-d928f39b5fd3" />
