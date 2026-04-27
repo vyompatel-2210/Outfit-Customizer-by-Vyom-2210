@@ -14,3 +14,8 @@
 
 ### 💡 What is this?
 Me and My team built this in 7 days for a hackathon. It helps you organize your clothes digitally. Even though the code is archived, I saved these images to show how the "Modular Design" worked.
+
+Credits:
+Vyom Patel: Lead GUI Developer & Backend Logic.
+Osamah Albayomi: Structural Manager.
+Muhammad Musa Bilal: Web Designer.
