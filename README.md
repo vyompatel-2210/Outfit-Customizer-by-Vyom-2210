@@ -13,9 +13,9 @@
  |Wardrobe<img width="380" height="250" alt="Wardrobe" src="https://github.com/user-attachments/assets/205097e2-4d1f-4421-92f1-e8152b1a486d" />
 
 ### 💡 What is this?
-Me and My team built this in 7 days for a hackathon. It helps you organize your clothes digitally. Even though the code is archived, I saved these images to show how the "Modular Design" worked.
 
-Credits:
-Vyom Patel: Lead GUI Developer & Backend Logic.
+My team and I built this modular wardrobe application in just 7 days for a university hackathon, where we ultimately secured 1st place. The project was developed using Python and the CustomTkinter library to create a high-fidelity GUI that allows users to organize and preview their clothing collections digitally. We focused on a modular design for the backend logic to ensure that new clothing categories could be added without breaking the existing database structure. During development, I specifically refactored the UI grid system to resolve scaling issues on high-resolution displays, ensuring a consistent user experience. Even though the code is currently archived, I have documented these assets to demonstrate our ability to deliver a functional, full-stack prototype under extreme time constraints.
+
+Credits: > * Vyom Patel: Lead GUI Developer & Backend Logic.
 Osamah Albayomi: Structural Manager.
 Muhammad Musa Bilal: Web Designer.
